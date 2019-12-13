@@ -4,11 +4,11 @@ Poker chance calculator is a php script for choose card from 52 cards to start p
 
 
 
-![Image of Yaktocat](https://cdn1.imggmi.com/uploads/2019/12/13/747b221f190d2eda51d4e5cbc544c000-full.png)
+![main page](https://cdn1.imggmi.com/uploads/2019/12/13/747b221f190d2eda51d4e5cbc544c000-full.png)
 
-![Image of Yaktocat](https://cdn1.imggmi.com/uploads/2019/12/13/7a1421c884e75adfbce0ab534a2bb001-full.png)
+![play page](https://cdn1.imggmi.com/uploads/2019/12/13/7a1421c884e75adfbce0ab534a2bb001-full.png)
 
-![Image of Yaktocat](https://cdn1.imggmi.com/uploads/2019/12/13/75b5aab8f39e28c9c4b7efaa540234c8-full.png)
+![win popup](https://cdn1.imggmi.com/uploads/2019/12/13/75b5aab8f39e28c9c4b7efaa540234c8-full.png)
 
 
 ## Installation
