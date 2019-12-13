@@ -1,0 +1,56 @@
+html, body {
+    background-color: #fff;
+    color: #636b6f;
+    font-family: 'Nunito', sans-serif;
+    font-weight: 200;
+    margin: 0;
+}
+
+
+.position-ref {
+    position: relative;
+}
+
+.top-right {
+    position: absolute;
+    right: 10px;
+    top: 18px;
+}
+
+.content {
+    text-align: center;
+}
+
+.title {
+    font-size: 84px;
+}
+
+.links > a {
+    color: #636b6f;
+    font-size: 13px;
+    font-weight: 600;
+
+    text-decoration: none;
+}
+.card{
+    float: left;
+    position: relative;
+    margin: 4px;
+    height: 120px;
+    padding: 20px;
+    width: 90px;
+    border: 1px solid black;
+}
+
+.sp-color{
+    background-color: #efeaff;
+}
+
+.card-value{
+    position: absolute;
+    bottom: 10px;
+    left: 10px
+}
+.m-b-md {
+    margin-bottom: 30px;
+}
