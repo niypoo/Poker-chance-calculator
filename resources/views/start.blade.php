@@ -38,7 +38,7 @@
 
         
         <div style="text-align: center">
-            This script is an assessment "Poker chance calculator" for AWStreams.
+            "Poker chance calculator" script is an assessment for AWStreams.
             <br /><small>Coding by Mahmoud Nabhan</small>
         </div>
     </body>
